@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "webpack": "^5.88.2"
+  },
+  "dependencies": {
+    "@flaticon/flaticon-uicons": "^2.4.0"
+  }
+}
